@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Usage: ./extract_creation_time.sh <input_folder> <output_csv_file>
+# Usage: ./get_times.sh <input_folder> <output_csv_file>
 
 # Check if the correct number of arguments is provided
 if [ "$#" -ne 2 ]; then
